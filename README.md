@@ -1,8 +1,10 @@
 NB: This is a template to make documentation process easy. You can remove the `To-Do` notes in your final commit
 
 # Analysis of Supermarket Data Across the Country for  Company XYZ
+1000 supermarket branches data were analysed in three cities, Lagos , Abuja and Portharcourt.
+Lagos has 340 branches , Abuja has 332 branches while Portharcourt has 328 branches.
+Three methods of payment were used in all branches. Data was segmented into two categories: Members and non members.
 
-To-Do - Write a short project description here.
 
 # Project Steps
 
@@ -16,8 +18,8 @@ purchased elctronic acessories pay with cash , while most customers who purchase
 
 
 # Future Work
+The distribution of data across all branches, the correlation of variables and prediction of one variable given two or more variables need to be visited
 
-To-Do - Suggest tasks you might include in future work to make this project more robust.
 
 # Standout Section
 
